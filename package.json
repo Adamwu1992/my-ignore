@@ -9,10 +9,18 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Adamwu1992/my-ignore.git"
+  },
   "keywords": [
     "git",
     "gitignore"
   ],
+  "bugs": {
+    "url": "https://github.com/Adamwu1992/my-ignore/issues"
+  },
+  "homepage": "https://github.com/Adamwu1992/my-ignore#readme",
   "author": "Adam Wu <adamu1992@163.com>",
   "license": "MIT",
   "devDependencies": {
