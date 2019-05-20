@@ -1,0 +1,21 @@
+{
+  "name": "my-ignore",
+  "version": "0.0.1",
+  "description": "A CLI for building .gitignore file.",
+  "main": "index.js",
+  "bin": {
+    "myignore": "./index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "git",
+    "gitignore"
+  ],
+  "author": "Adam Wu <adamu1992@163.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "figlet": "^1.2.1"
+  }
+}
