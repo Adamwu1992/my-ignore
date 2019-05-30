@@ -5,15 +5,15 @@
 ### Usage
 
 ```bash
-npx myignore
+npx my-ignore
 
 ```
 
 or 
 
 ```bash
-npm install -g myignore
+npm install -g my-ignore
 
-myignore
+my-ignore
 
 ```
