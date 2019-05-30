@@ -1,6 +1,6 @@
 {
   "name": "my-ignore",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "A CLI for building .gitignore file.",
   "main": "index.js",
   "bin": {
